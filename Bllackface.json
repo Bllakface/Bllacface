@@ -47,9 +47,16 @@
     "final": "dns-remote",
     "static_ips": {
       "sky.rethinkdns.com": [
-        "24.0.0.74",
-        "24.0.0.75",
-        "24.0.0.76"
+        "188.114.97.3",
+        "188.114.96.3",
+        "2a06:98c1:3120::3",
+        "2a06:98c1:3121::3",
+        "104.17.147.22",
+        "104.17.148.22",
+        "188.114.96.3",
+        "188.114.97.3",
+        "2a06:98c1:3120::3",
+        "2a06:98c1:3121::3"
       ]
     },
     "independent_cache": true
@@ -109,13 +116,13 @@
       "tag": "ایران🇮🇷 § 0",
       "local_address": [
         "172.16.0.2/24",
-        "2606:4700:110:8dab:36ca:7a5a:6a18:edab/128"
+        "2606:4700:110:8617:a910:4724:9a69:38f2/128"
       ],
-      "private_key": "GM4GWwny5gRB17YCHrx01pcR/Wqd225FWfzsWsnvVG4=",
-      "server": "162.159.195.130",
-      "server_port": 1180,
+      "private_key": "OBACOlxc9iJFmGSAoRjWDUOGRXJE4CWITT+ZBEAmtVY=",
+      "server": "162.159.192.174",
+      "server_port": 939,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": "uJAA",
+      "reserved": "vYK2",
       "mtu": 1330,
       "fake_packets": "10-20",
       "fake_packets_size": "20-60",
@@ -127,13 +134,13 @@
       "detour": "ایران🇮🇷 § 0",
       "local_address": [
         "172.16.0.2/24",
-        "2606:4700:110:869f:43c5:b84f:fcc5:92d6/128"
+        "2606:4700:110:85b7:abbd:2a68:962c:582b/128"
       ],
-      "private_key": "QMoAS7A54M3ldi6RrEzPGIXkLoMFlpnS54xtGUmKQH0=",
-      "server": "162.159.192.132",
-      "server_port": 3854,
+      "private_key": "IOXYN1yTJq2jX6jX6nEaUuEcN3xQEdJyUJf9zbtZM3Q=",
+      "server": "188.114.98.64",
+      "server_port": 955,
       "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
-      "reserved": "dVOt",
+      "reserved": "pVGc",
       "mtu": 1280
     },
     {
@@ -204,7 +211,7 @@
     },
     "clash_api": {
       "external_controller": "127.0.0.1:6756",
-      "secret": "EvUkXXIQemjCITVG"
+      "secret": "eKp4vr0lLm4Rr0b4"
     }
   }
 }
